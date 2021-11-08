@@ -14,7 +14,7 @@ class HomeWork2 {
         isPositiveOrNegative(-5);
         System.out.println(isNegative(-10));
         System.out.println(isNegative(10));
-        printWordNTimes();
+        printWord3Times();
     }
 
     static boolean within10and20(int a, int b) {
@@ -58,7 +58,7 @@ class HomeWork2 {
         }
     }*/
 
-    static void printWordNTimes() {
+    static void printWord3Times() {
         for (int i =0; i < 3; i++) {
             System.out.println("Hello");
         }
