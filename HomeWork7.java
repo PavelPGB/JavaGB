@@ -28,7 +28,6 @@ class Cat {
         this.name = name;
         this.appetite = appetite;
         this.satiety = satiety; 
-
     }
  
     void eat(Plate plate) { 
